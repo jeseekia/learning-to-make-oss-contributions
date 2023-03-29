@@ -1,0 +1,1 @@
+Are there resources that include lists of beginner open source projects?
