@@ -1,0 +1,1 @@
+Suppose you go to merge your branch and your code conflicts with other collaborators! What typically happens next? Given two approaches that result in the same output, how is it decided what code stays and what code goes? ^_^
